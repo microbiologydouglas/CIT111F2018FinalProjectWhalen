@@ -8,6 +8,9 @@ package CIT111;
 /**
  * model of a virus inspired by my deep personal love from doing research with
  * and being an unwilling host for many viruses!
+ * all source material from: https://viralzone.expasy.org/
+ * attempted to store project at:
+ * https://github.com/microbiologydouglas/CIT111F2018FinalProjectWhalen.git
  * @author micro
  */
 public class Virus {
